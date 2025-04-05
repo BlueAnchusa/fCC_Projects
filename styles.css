@@ -1,0 +1,26 @@
+body{
+    background-color: #333333;
+}
+main {
+    width: 90vw;
+    margin: auto;
+    text-align: center;
+}
+svg {
+    padding-left: 100px; 
+    margin: auto;
+}
+#tooltip {
+    position: absolute;
+    background-color: beige;
+}
+#title {
+    position: relative;
+    top: 130px;
+    left: 650px;
+    font-size: 2em;
+    color: white;
+    background-color: rgb(0, 0, 78);
+    width: 25%;
+    text-align: center;
+}
